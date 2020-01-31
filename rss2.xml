@@ -9,8 +9,29 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>温州大学 | 应用数学 | 深度学习</description>
-    <pubDate>Fri, 31 Jan 2020 09:07:01 GMT</pubDate>
+    <pubDate>Fri, 31 Jan 2020 10:29:56 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>迭代法求数列</title>
+      <link>https://xinetzone.github.io/zh-CN/8d33ba78.html</link>
+      <guid>https://xinetzone.github.io/zh-CN/8d33ba78.html</guid>
+      <pubDate>Fri, 31 Jan 2020 09:12:25 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/npm/katex@0.10.1/dist/katex.min.css&quot;
+          
+        
+      
+      </description>
+      
+      
+      <comments>https://xinetzone.github.io/zh-CN/8d33ba78.html#disqus_thread</comments>
+    </item>
     
     <item>
       <title>数学归纳法</title>
