@@ -9,8 +9,71 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>温州大学 | 应用数学 | 深度学习</description>
-    <pubDate>Fri, 31 Jan 2020 10:31:33 GMT</pubDate>
+    <pubDate>Sat, 15 Feb 2020 10:38:17 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>直线、圆、圆锥曲线</title>
+      <link>https://xinetzone.github.io/zh-CN/d7379ca0.html</link>
+      <guid>https://xinetzone.github.io/zh-CN/d7379ca0.html</guid>
+      <pubDate>Sat, 15 Feb 2020 05:46:22 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/npm/katex@0.10.1/dist/katex.min.css&quot;
+          
+        
+      
+      </description>
+      
+      
+      <comments>https://xinetzone.github.io/zh-CN/d7379ca0.html#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>三角函数</title>
+      <link>https://xinetzone.github.io/zh-CN/5640f8b3.html</link>
+      <guid>https://xinetzone.github.io/zh-CN/5640f8b3.html</guid>
+      <pubDate>Fri, 14 Feb 2020 12:13:46 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/npm/katex@0.10.1/dist/katex.min.css&quot;
+          
+        
+      
+      </description>
+      
+      
+      <comments>https://xinetzone.github.io/zh-CN/5640f8b3.html#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>数学归纳法</title>
+      <link>https://xinetzone.github.io/zh-CN/886e6229.html</link>
+      <guid>https://xinetzone.github.io/zh-CN/886e6229.html</guid>
+      <pubDate>Fri, 14 Feb 2020 02:14:03 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/npm/katex@0.10.1/dist/katex.min.css&quot;
+          
+        
+      
+      </description>
+      
+      
+      <comments>https://xinetzone.github.io/zh-CN/886e6229.html#disqus_thread</comments>
+    </item>
     
     <item>
       <title>迭代法求数列</title>
@@ -31,27 +94,6 @@
       
       
       <comments>https://xinetzone.github.io/zh-CN/8d33ba78.html#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>数学归纳法</title>
-      <link>https://xinetzone.github.io/zh-CN/886e6229.html</link>
-      <guid>https://xinetzone.github.io/zh-CN/886e6229.html</guid>
-      <pubDate>Thu, 30 Jan 2020 15:35:24 GMT</pubDate>
-      <description>
-      
-        
-        
-          
-          
-            &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/npm/katex@0.10.1/dist/katex.min.css&quot;
-          
-        
-      
-      </description>
-      
-      
-      <comments>https://xinetzone.github.io/zh-CN/886e6229.html#disqus_thread</comments>
     </item>
     
     <item>
